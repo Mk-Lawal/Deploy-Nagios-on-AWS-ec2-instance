@@ -153,4 +153,4 @@ For further customization and configuration, refer to the [Nagios Documentation]
 
 
 
-![image alt](https://github.com/Mk-Lawal/Deploy-Nagios-on-AWS-ec2-instance/blob/3f502a808147ca0a8e7e1906d182de4904066d2c/Capture%20d'%C3%A9cran%202024-09-10%20185309.png)
+![image alt](https://github.com/Mk-Lawal/Deploy-Nagios-on-AWS-ec2-instance/blob/9030879853b9b357f057eaaa0d1926c1254c0d8f/Capture%20d'%C3%A9cran%202024-09-10%20185309.png)
