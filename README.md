@@ -153,4 +153,4 @@ For further customization and configuration, refer to the [Nagios Documentation]
 
 
 
-![Alt text]{Capture d'écran 2024-09-10 185309.png}
+![Alt text](Capture d'écran 2024-09-10 185309.png)
