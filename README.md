@@ -1,6 +1,4 @@
-Here's a suggested README file based on your project and the installation steps you provided:
 
-```markdown
 # Nagios Monitoring System Deployment on AWS EC2
 
 ## Overview
@@ -153,13 +151,6 @@ In this project, we successfully deployed Nagios Core on an AWS EC2 instance run
 
 For further customization and configuration, refer to the [Nagios Documentation](https://www.nagios.org/documentation/).
 
----
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Notes:
-- Ensure the image (`Capture d'écran 2024-09-10 185309.png`) is correctly referenced and uploaded to your repository as `Nagios_Architecture_Diagram.png` or any suitable name.
-- Adjust the project details based on any specific configurations or settings you used.
+![Alt text]{Capture d'écran 2024-09-10 185309.png}
